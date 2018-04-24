@@ -1,0 +1,7 @@
+Dev Practices:
+
+Good software development practices are important. I'm using these for this project:
+
+- Comments: Got to comment your code
+- Git: Version control is a must
+- Agile Development: Not really sure what this means but everyone else seems to be doing it
